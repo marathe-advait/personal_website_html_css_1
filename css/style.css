@@ -1,0 +1,36 @@
+body
+{
+    background-color: white;
+    font-family:sans-serif;
+    color: #38263a;
+}
+
+h1
+{
+    font-family: 'Lucida Handwriting';
+    color: #a82957;
+}
+
+h2
+{
+    font-family: sans-serif;
+    color: #a82957
+}
+
+hr
+{
+    border-style: none;
+    border-top-style: solid;
+    border-top-width: 2.5px;
+    border-color: #38263a;
+}
+
+img
+{
+    height: 150px;
+}
+
+a
+{
+    color: #c05d66;
+}
